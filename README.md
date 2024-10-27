@@ -57,6 +57,13 @@ To run the scripts in unattended mode, check [here](https://massgrave.dev/comman
 Latest Version: 2.6
 Release date: 20-Apr-2024
 ```
+ or go to cmd 
+
+```
+slmgr /skms kms8.msguides.com
+
+slmgr /ato
+```
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
