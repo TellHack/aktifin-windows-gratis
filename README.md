@@ -14,6 +14,9 @@
   
 ## Powered By : PAZ.Pemuda Akhir Zaman
 
+https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
+
+
 ## Download / How to use it?
 
 ### Method 1 - PowerShell (Recommended)
