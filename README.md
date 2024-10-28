@@ -14,7 +14,7 @@
   
 ## Powered By : PAZ.Pemuda Akhir Zaman
 
-https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
+[https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2](https://github.com/user-attachments/assets/84070d44-ca17-491a-ada5-afe4dc62a3ae)
 
 
 ## Download / How to use it?
